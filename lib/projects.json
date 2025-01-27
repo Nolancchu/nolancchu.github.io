@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Lorem ipsum dolor sit.",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi quis ea optio accusamus saepe dicta rem quo dolorum ut! Iste ex aperiam fuga labore aspernatur maxime, molestias accusamus quis ut!"
+    },
+    {
+        "title": "Cupiditate, suscipit recusandae. Deleniti.",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Velit aliquid itaque eligendi eum corporis cumque blanditiis sit repudiandae adipisci temporibus atque aperiam asperiores nulla vel iusto error obcaecati eos nam accusamus quo, deserunt similique nisi sed suscipit! Velit!"
+    },
+    {
+        "title": "Cumque totam dicta nesciunt!",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Sed pariatur libero reiciendis animi. Quos iusto debitis a doloremque, voluptatibus eos, laudantium exercitationem itaque doloribus qui quae nostrum ipsum nulla similique? Laborum, perspiciatis! Veritatis nesciunt officiis beatae autem atque!"
+    },
+    {
+        "title": "https://ieee.ucrhighlanders.org/",
+        "year": "2023",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Website developed for IEEE @ UCR as a part of ACM @ UCR"
+    },
+    {
+        "title": "Sport Commentary Generator (in-progress)",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Model meant to generate commentary based on sports video."
+    },
+    {
+        "title": "Conductify (in-progress)",
+        "year": "2025",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Conducting Gesture Recognition Model."
+    },
+    {
+        "title": "NBA Prediction Model",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Logistic Prediction Model utilizing advanced statistics to estimate win probability"
+    },
+    {
+        "title": "Excepturi eveniet explicabo repudiandae.",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Veritatis, sunt facilis dolore ab et vitae ea enim ad voluptate ipsam facere quisquam aliquam exercitationem saepe? Nesciunt necessitatibus, maiores dolor soluta, saepe dolore laudantium eos rerum laboriosam reprehenderit dolorem."
+    },
+    {
+        "title": "https://nolancchu.vercel.app/",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Personal Website."
+    },
+    {
+        "title": "Webscraping Workshop",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Webscraping Workshop written for DS3 @ UCSD"
+    },
+    {
+        "title": "200 Years",
+        "year": "2024",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Statistical Analysis on how Champion Age affects Winrate for League of Legends Champions."
+    },
+    {
+        "title": "Carbon Emissions Map",
+        "year": "2022",
+        "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+        "description": "Interactive Map Showcasing Carbon Emission Particulates in each State."
+    }
+]
