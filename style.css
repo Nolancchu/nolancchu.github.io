@@ -168,3 +168,75 @@ section {
 p {
     padding-top: 60px;
 }
+
+.chart-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2rem auto;
+    max-width: 800px;
+}
+
+.legend {
+    border: 2px solid #000 !important;
+    border-radius: 8px;
+    padding: 24px;
+    margin: 48px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    background-color: #fff;
+    min-width: 200px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    padding: 8px 0;
+    transition: background-color 0.2s;
+}
+
+.legend-item:hover {
+    background-color: #f5f5f5;
+}
+
+.legend-circle {
+    width: 24px;
+    height: 24px;
+    margin-right: 24px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.legend-text {
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+}
+
+#projects-pie-plot {
+    flex-shrink: 0;
+    width: 300px;
+    height: 300px;
+}
+
+.project-grid {
+    display: block !important;  /* Override any conflicting display properties */
+}
+
+&:has(path:hover) {
+    path:not(:hover) {
+        opacity: 0.2;
+    }
+}
+path {
+    transition: 300ms;
+    cursor: pointer;
+}
+
+.selected {
+    --color: #800020 !important;
+
+    &:is(path) {
+    fill: var(--color);
+    }
+}

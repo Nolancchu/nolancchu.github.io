@@ -1,21 +1,21 @@
 [
     {
-        "title": "Lorem ipsum dolor sit.",
+        "title": "Californian Residential Real Estate Closing Price Model",
         "year": "2025",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi quis ea optio accusamus saepe dicta rem quo dolorum ut! Iste ex aperiam fuga labore aspernatur maxime, molestias accusamus quis ut!"
+        "description": "Model meant to predict closing price of residential real estate in California. Built for IDX Exchange."
     },
     {
-        "title": "Cupiditate, suscipit recusandae. Deleniti.",
-        "year": "2025",
+        "title": "Reddit Story Generator",
+        "year": "2021",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Velit aliquid itaque eligendi eum corporis cumque blanditiis sit repudiandae adipisci temporibus atque aperiam asperiores nulla vel iusto error obcaecati eos nam accusamus quo, deserunt similique nisi sed suscipit! Velit!"
+        "description": "Model meant to generate posts built on Reddit API."
     },
     {
-        "title": "Cumque totam dicta nesciunt!",
-        "year": "2025",
+        "title": "Options Prediction Model",
+        "year": "2024",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Sed pariatur libero reiciendis animi. Quos iusto debitis a doloremque, voluptatibus eos, laudantium exercitationem itaque doloribus qui quae nostrum ipsum nulla similique? Laborum, perspiciatis! Veritatis nesciunt officiis beatae autem atque!"
+        "description": "Model meant to predict pricing on gold options."
     },
     {
         "title": "https://ieee.ucrhighlanders.org/",
@@ -42,9 +42,10 @@
         "description": "Logistic Prediction Model utilizing advanced statistics to estimate win probability"
     },
     {
-        "title": "Excepturi eveniet explicabo repudiandae.",
+        "title": "Deep Learning TFT model",
+        "year": "2023",
         "image": "https://vis-society.github.io/labs/2/images/empty.svg",
-        "description": "Veritatis, sunt facilis dolore ab et vitae ea enim ad voluptate ipsam facere quisquam aliquam exercitationem saepe? Nesciunt necessitatibus, maiores dolor soluta, saepe dolore laudantium eos rerum laboriosam reprehenderit dolorem."
+        "description": "Deep Learning Model meant to predict winrate for rounds in Teamfight Tactics."
     },
     {
         "title": "https://nolancchu.vercel.app/",
