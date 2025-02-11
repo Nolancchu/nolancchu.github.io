@@ -240,3 +240,64 @@ path {
     fill: var(--color);
     }
 }
+
+dl.info {
+    display: grid;
+    grid-template-columns: auto 1fr; /* dt in first column, dd in second */
+    gap: 0.5em 1em; /* Adds spacing between rows and columns */
+    margin: 0; /* Removes default margins */
+}
+
+dl.info dt {
+    font-weight: normal; /* Makes labels less prominent */
+    color: #666; /* Lighter text color for labels */
+}
+
+dl.info dd {
+    font-weight: bold; /* Makes values stand out */
+    margin: 0; /* Removes default margins */
+}
+
+.tooltip {
+    display: none;  /* Hide by default */
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    background: #f0e9e9;
+    color: #242121;
+    padding: 0.5em 1em;
+    box-shadow: inset 1 1 1 1px #243121;
+    border-radius: 5px;
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+
+.tooltip.show {
+    display: block;  /* Show when .show is added */
+}
+
+
+circle {
+    transition: 200ms;
+    transform-origin: center;
+    transform-box: fill-box;
+}
+
+circle:hover {
+    transform: scale(1.5);
+}
+
+dl.info {
+    /* ... other styles ... */
+    transition-duration: 500ms;
+    transition-property: opacity, visibility;
+}
+
+dl.info[hidden]:not(:hover, :focus-within) {
+opacity: 0;
+visibility: hidden;
+}
+
+circle.selected {
+    fill: #ff6b6b;
+}

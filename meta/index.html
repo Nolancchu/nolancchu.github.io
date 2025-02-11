@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>contact</title>
+    <link rel="stylesheet" href="../style.css">
+    <script src="../global.js" type="module"></script>
+    <script src="main.js" type="module"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <h2>meta</h2>
+    <div id="stats"></div>
+    <h2>Commits by time of day</h2>
+    <div id="chart"></div>
+    <dl id="commit-tooltip" class="info tooltip">
+        <dt>Commit</dt>
+        <dd>
+            <a href="" id="commit-link" target="_blank"></a>
+        </dd>
+        
+        <dt>Date</dt>
+        <dd id="commit-date"></dd>
+    </dl>
+    <p id="selection-count">No commits selected</p>
+    <dl id="language-breakdown" class="stats"></dl>
+</body>
+</html>
